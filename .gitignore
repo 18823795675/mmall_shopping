@@ -1,0 +1,33 @@
+*.class
+
+#package file
+*.war
+*.ear
+
+#kidff3 ingore
+*.orig
+
+#maven
+target/
+
+#eclispe
+.settings/
+.project
+.classpatch
+
+#idea
+.idea/
+/idea/
+*.ipr
+
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*tmp
+
+#system file
+.DS_Store
+Thumbs.db
+
